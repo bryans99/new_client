@@ -174,6 +174,7 @@ export class App extends Component {
 
 const Main = styled.div`
   width: 100%;
+  margin: 20px;
 `
 
 export default App;
